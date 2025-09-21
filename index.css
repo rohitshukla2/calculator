@@ -11,6 +11,11 @@
       height: 100vh;
       background: #1e1e2e;
     }
+    #text{
+        color:white;
+        text-align: center;
+        padding: 5px;
+    }
     .calculator {
       width: 320px;
       background: #2a2a3b;
